@@ -1,0 +1,5 @@
+{
+  "name": "AI Fencai Artisan",
+  "description": "An application for a Jingdezhen Fencai porcelain painter. Upload a line drawing, and the AI will color it in the delicate, glossy Fencai style, capturing nuanced transitions and a watery, lustrous finish.",
+  "requestFramePermissions": []
+}
